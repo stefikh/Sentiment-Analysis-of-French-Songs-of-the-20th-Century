@@ -10,6 +10,6 @@
 
 Создание корпуса и балансирование.ipynb — в этой тетрадке находится код, который собирает в базу данных тексты песен с сервиса Genius, затем добавляет к ним тексты с сайта paroles.net. Далее происходит балансировка корпуса.
 
-Chanson_françaises_XX.db — корпус до балансировки
+https://drive.google.com/file/d/1YZNQhgLESIBTMjQAgn9VURakQb2q-7Vq/view?usp=drive_link — корпус до балансировки
 
-Chanson_françaises_XX_balanced.db — корпус после балансировки
+https://drive.google.com/file/d/1C2VJtB1A0IS516uW_KD7oOqnV6IVTIRs/view?usp=drive_link — корпус после балансировки
